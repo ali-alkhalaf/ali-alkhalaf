@@ -1,6 +1,6 @@
-## Hi there 👋
+## Mr. Ali Abduljabar Al-Khalaf
 
-<h1 align="left">Mr. Ali Abduljabar Al-Khalaf<br><br>Computer Information Systems Professional<br>📍 Location: Saudi Arabia<br>📧 Email: A62050a@hotmail.com<br>🔗 LinkedIn: linkedin.com/in/aaalkhalaf<br>📱 Phone: +966536847107</h1>
+<h1 align="left">Computer Information Systems Professional<br>📍 Location: Saudi Arabia<br>📧 Email: A62050a@hotmail.com<br>🔗 LinkedIn: linkedin.com/in/aaalkhalaf<br>📱 Phone: +966536847107</h1>
 
 ###
 
